@@ -4,12 +4,13 @@ public class CarExample {
   public static void main(String[] args) {
     Car myCar = new Car();
     
-    System.out.println("ì œì‘íšŒì‚¬ : " + myCar.company);
-    System.out.println("ëª¨ë¸ëª… : " + myCar.model);
-    System.out.println("ìƒ‰ê¹” : " + myCar.color);
-    System.out.println("ìµœê³ ì†ë„ : " + myCar.maxSpeed);
-    System.out.println("í˜„ì¬ì†ë„ : " + myCar.speed);
+    System.out.println("È¸»ç : " + myCar.company);
+    System.out.println("¸ğµ¨ : " + myCar.model);
+    System.out.println("»ö±ò : " + myCar.color);
+    System.out.println("ÃÖ´ë¼Óµµ : " + myCar.maxSpeed);
+    System.out.println("ÇöÀç¼Óµµ : " + myCar.speed);
     
     myCar.speed = 60;
-    System.out.println("ìˆ˜ì •ëœ ì†ë„ : " + myCar.speed);
+    System.out.println("ÇöÀç¼Óµµ : " + myCar.speed);
+}
 }

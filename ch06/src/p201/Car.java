@@ -1,9 +1,9 @@
 package p201;
 
 public class Car {
-  String company = "í˜„ëŒ€ìë™ì°¨";
-  String model = "ê·¸ëœì €";
-  String color = "ê²€ì •";
+  String company = "ÄÄÆÛ´Ï";
+  String model = "¸ğµ¨";
+  String color = "ÄÃ·¯";
   int maxSpeed = 350;
   int speed;
 }
