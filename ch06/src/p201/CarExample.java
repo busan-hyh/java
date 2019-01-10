@@ -3,6 +3,7 @@ package p201;
 public class CarExample {
   public static void main(String[] args) {
     Car myCar = new Car();
+    Car myCha = new Car();
     
     System.out.println("È¸»ç : " + myCar.company);
     System.out.println("¸ðµ¨ : " + myCar.model);
